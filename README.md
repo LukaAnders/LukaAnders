@@ -8,7 +8,6 @@
  
 <br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LukaAnders&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=LukaAnders&layout=compact&langs_count=4&theme=transparent)
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
